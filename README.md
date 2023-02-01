@@ -42,6 +42,23 @@ Below table describes the countries which attaracts tourists around the world du
 
 > PHP detect if string starts with Alpha or Numeric?
  Quick link for reference <https://stackoverflow.com/questions/45831755/php-detect-if-string-starts-with-alpha-or-numeric>
+ 
+ ```
+ <?php 
+  
+function startsWith($string, $startString) { 
+  $len = strlen($startString); 
+  return (substr($string, 0, $len) === $startString); 
+} 
+
+// usage
+echo startsWith("cat", "c"); // true
+echo startsWith("dog", "x"); // false
+
+?> 
+
+```
+Quick link for above reference <https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
       
      
   
