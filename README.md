@@ -15,7 +15,7 @@ Other teams i good to watch is
 * Pakisatan.
 * Srilanka 
   
-About me Limk as follows: https://github.com/Raja784/-assignment2-Manda/blob/main/AboutMe.md
+About me Limk as follows: ![Find my deatils](AboutMe.md)
 
 
 
