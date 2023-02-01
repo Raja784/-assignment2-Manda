@@ -60,6 +60,8 @@ echo startsWith("dog", "x"); // false
 ?> 
 
  ```
+ 
+ 
  Quick link for reference to above code <https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/>
  
      
