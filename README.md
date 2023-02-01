@@ -30,12 +30,15 @@ Below table describes the countries which attaracts tourists around the world du
 |China              |China is full of ancient treasures and monumental marvels that exceed other countries in both size and number. From the Great Wall and buried armies, to ancient architecture like city walls, pagodas, temples and giant Buddhas, China is full of impressive wonders to explore.| Minimum 10 days |
 |japan              |It's easy to get around on public transportation it is very clean.Japanese people are polite and friendly it has incredible natural landscapes.The large number of UNESCO sites.The majestic temples in Japan.The unique castles.The spectacular cherry blossom season| Minimum 10 days |
 ***
+## Funny Quotes
+
 > "The Road to hell is paved with adverbs" .
       Authour : *Stephen King*
 
 > "Books are funny little portable pieces of thought".  
       Authour : *Susan Santag*
       
+***      
       
      
   
