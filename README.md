@@ -15,22 +15,32 @@ Other teams i good to watch is
 * Pakisatan.
 * Srilanka 
   
-About me Limk as follows: ![Find my deatils](AboutMe.md)
-
-
+About me Link as follows: ![Find my deatils](AboutMe.md)
 
 ***
-|  country name       | Description |
-|---------------------|-------------|
-| INDIA               | India is a multi-lingual country. it has many tourist places. In northern part of country we have the great himalyas and which is highest peak                         in india. It also protects northern part of the countrty from snow floods. We have world famous temple of LORD SHIVA which is located in the                           utterpradesh state. Coming to south india we have many tourist places Ajantha,Elleoura, mumbai palace etc.
-| Thailand            | Tourism is an economic contributor to the Kingdom of Thailand. Estimates , the equivalent of 9% to 17.7% of GDP.[1][2] When including indirect                         travel and tourism receipts, the 2014 total is estimated to be the equivalent of 19.3% (2.3 trillion baht) of Thailand. The actual                                     contribution of tourism to GDP is lower than these percentages because GDP is measured in value added not revenue. The valued added of the                             Thailand's tourism industry is not known. According to the secretary-general of the Office of the National Economic land Social Development                             Council in 2019, the government projects that the tourism sector will account for 30% of GDP by 2030.
-|   DUBAI             | Aspects of Dubai's old culture, while occasionally overshadowed by the boom in economic development, can be found by visiting places around the                         creek, which splits Dubai into two halves, Bur Dubai and Deira. The buildings lining the Bur Dubai side of the Creek provide the main flavor                           of the old city. Heritage Village is one of the few remaining parts of historical Dubai, containing preserved buildings. The adjoining Diving                           Village offers exhibits on pearl diving and fishing.
-| Austrila            | Sydney Opera House attraction that appeals to many tourists is the Sydney Opera House. Shopping and casinos are a major drawcard for wealthy                           Chinese visitors. Wine, indigenous culture and nature tourism also generate travel in Australia.The Great Barrier Reef attracts up to two                               million visitors every year.[39] Careful management, which includes permits for camping and all commercial marine tourism within the Great                             Barrier Reef Marine Park, has so far ensured that tourists have a very minimal impact on the reef.Uluru, Kakadu National Park and Fraser                               Island are major natural attractions. Uluru won the 2013 Qantas Australian Tourism Awards and was named Australia's best major tourist                                 attraction.
+## Countries I recommand to Vist:
 
+Below table describes the countries which attaracts tourists around the world during their vactions times.
+***
 
 |country name       | Reason for recommdenation | No of days to be spent|
 |-------------------|---------------------------|------------------------
-| Singapore         | it has good hospitality and many tourist attraction places and good infrastructure|
+|  Singapore        | Singapore is a world of architectural wonders and culinary delights where lush greenery and Eco-Friendly malls coexist in confidence. Here is where friends, families and lovers come to find themselves and each other in a spirit that transcends cultures and new experiences are created every day.Singapore is famous for being a global financial center, being among the most densely populated places in the world, having a world-class city airport with a waterfall, and a Botanic Garden| Minimum 1 week |
+| India             |There are plenty of reasons to visit India – be it mountains or plains, beaches or backwaters, wildlife tours or adventure activities, secluded islands or bustling metropolitan, culinary delights or local drinks, spiritual holidays | Minimum 15 Days |
+|China              |China is full of ancient treasures and monumental marvels that exceed other countries in both size and number. From the Great Wall and buried armies, to ancient architecture like city walls, pagodas, temples and giant Buddhas, China is full of impressive wonders to explore.| Minimum 10 days |
+|japan              |It's easy to get around on public transportation it is very clean.Japanese people are polite and friendly it has incredible natural landscapes.The large number of UNESCO sites.The majestic temples in Japan.The unique castles.The spectacular cherry blossom season| Minimum 10 days |
+***
+> "The Road to hell is paved with adverbs" .
+      Authour : *Stephen King*
+
+> "Books are funny little portable pieces of thought".  
+      Authour : *Susan Santag*
+      
+      
+     
+  
+  
+  
 
 
 
