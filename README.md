@@ -40,7 +40,8 @@ Below table describes the countries which attaracts tourists around the world du
       
 ***      
 
-
+> PHP detect if string starts with Alpha or Numeric?
+ Quick link for reference <https://stackoverflow.com/questions/45831755/php-detect-if-string-starts-with-alpha-or-numeric>
       
      
   
